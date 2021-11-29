@@ -1,0 +1,21 @@
+Component Name : CMP-1721-00006-1
+
+Part Count : 2
+
+Part : D?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : D?
+     Pins - (Normal) : 9
+          A0             1              Input
+          A1             2              Input
+          A2             3              Input
+          GND            4              Power
+          SDA            5              I/O
+          SCLK           6              Input
+          EVENT          7              Open Collector
+          VDD            8              Power
+          EP             9              Power
+          Hidden Pins : 
+
